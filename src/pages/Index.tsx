@@ -12,7 +12,7 @@ const Index = () => {
             {/* Left content */}
             <div className="flex-1 p-8 relative z-10 flex flex-col justify-center">
             <p className="font-playfair text-[28px] md:text-[40px] text-black leading-[1.4] tracking-[-0.02em] max-w-lg">
-              "Tu hijo no necesita más contenido.<br />
+              Estamos devolviendo la creatividad a una generación que está perdiendo la capacidad de imaginar.    <br />
               Necesita una forma de empezar a imaginar otra vez."
             </p>
             
