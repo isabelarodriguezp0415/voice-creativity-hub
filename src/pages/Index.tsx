@@ -16,7 +16,7 @@ const Index = () => {
                 Necesita una forma de empezar a imaginar otra vez.
               </p>
               
-              <Button className="bg-white text-black hover:bg-neutral-200 font-inter font-medium text-[15px] tracking-[0.02em] px-9 py-6 rounded-[6px]">
+              <Button className="bg-white text-black hover:bg-neutral-200 font-inter font-medium tracking-[0.02em] px-9 mt-0 mr-0 mb-0 ml-0 my-0 text-center opacity-75 rounded-lg py-[30px] text-3xl">
                 Descubre Imagine Lab
               </Button>
             </div>
