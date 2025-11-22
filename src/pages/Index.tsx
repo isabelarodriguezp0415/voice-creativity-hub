@@ -11,7 +11,7 @@ const Index = () => {
           <div className="flex h-full">
             {/* Left content */}
             <div className="flex-1 p-8 relative z-10 flex flex-col justify-center text-gray-50">
-              <p className="font-inter font-bold text-[30px] md:text-[44px] text-[#111111] leading-[1.3] tracking-[-0.03em] max-w-[680px] mx-auto mb-6">
+              <p className="font-inter font-bold text-[90px] md:text-[132px] text-white leading-[1.3] tracking-[-0.03em] max-w-[680px] mx-auto mb-6">
                 Tu hijo no necesita más contenido.<br />
                 Necesita una forma de empezar a imaginar otra vez.
               </p>
