@@ -10,13 +10,13 @@ const Index = () => {
           
           <div className="flex h-full">
             {/* Left content */}
-            <div className="flex-1 p-8 relative z-10 flex flex-col justify-center text-gray-50">
-              <p className="font-inter font-bold text-[90px] text-white leading-[1.3] tracking-[-0.03em] max-w-[680px] mx-auto mb-6 md:text-2xl">
+            <div className="flex-1 px-8 relative z-10 flex flex-col justify-center text-gray-50">
+              <p className="font-inter font-bold text-[64px] md:text-[40px] text-white leading-[1.15] tracking-[-0.03em] max-w-[680px] mx-auto mb-10">
                 Tu hijo no necesita más contenido.<br />
                 Necesita una forma de empezar a imaginar otra vez.
               </p>
               
-              <Button className="bg-white text-black hover:bg-neutral-200 font-inter font-medium tracking-[0.02em] px-9 mt-0 mr-0 mb-0 ml-0 my-0 text-center opacity-75 rounded-lg py-[30px] text-3xl">
+              <Button className="bg-white text-black hover:bg-white hover:brightness-110 font-inter font-semibold tracking-[0.02em] px-8 py-4 text-lg rounded-lg transition-all hover:scale-[1.02] max-w-fit mx-auto">
                 Descubre Imagine Lab
               </Button>
             </div>
