@@ -17,7 +17,7 @@ const Index = () => {
                   They need a way to start imagining again.
                 </h1>
                 
-                <Button className="w-96 h-16 bg-white text-black font-inter font-semibold text-xl rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-white/20">
+                <Button className="w-96 h-16 bg-white text-black font-inter font-semibold text-xl rounded-xl transition-all duration-300 hover:bg-white hover:text-black hover:scale-105 hover:shadow-2xl hover:shadow-white/20">
                   Discover Imagine Lab
                 </Button>
               </div>
