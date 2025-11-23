@@ -13,12 +13,12 @@ const Index = () => {
             <div className="flex-1 px-12 relative z-10 flex flex-col justify-center">
               <div className="max-w-[700px] mx-auto">
                 <h1 className="font-inter font-extrabold text-7xl md:text-5xl text-white leading-[1.1] tracking-[-0.02em] mb-12">
-                  Tu hijo no necesita más contenido.<br />
-                  Necesita una forma de empezar a imaginar otra vez.
+                  Your child doesn't need more content.<br />
+                  They need a way to start imagining again.
                 </h1>
                 
                 <Button className="w-96 h-16 bg-white text-black font-inter font-semibold text-xl rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-white/20">
-                  Descubre Imagine Lab
+                  Discover Imagine Lab
                 </Button>
               </div>
             </div>
