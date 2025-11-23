@@ -10,15 +10,17 @@ const Index = () => {
           
           <div className="flex h-full">
             {/* Left content */}
-            <div className="flex-1 px-8 relative z-10 flex flex-col justify-center text-gray-50">
-              <p className="font-inter font-bold text-[64px] md:text-[40px] text-white leading-[1.15] tracking-[-0.03em] max-w-[680px] mx-auto mb-10">
-                Tu hijo no necesita más contenido.<br />
-                Necesita una forma de empezar a imaginar otra vez.
-              </p>
-              
-              <Button className="bg-white text-black hover:bg-white hover:brightness-110 font-inter font-semibold tracking-[0.02em] px-8 py-4 text-lg rounded-lg transition-all hover:scale-[1.02] max-w-fit mx-auto">
-                Descubre Imagine Lab
-              </Button>
+            <div className="flex-1 px-12 relative z-10 flex flex-col justify-center">
+              <div className="max-w-[700px] mx-auto">
+                <h1 className="font-inter font-extrabold text-7xl md:text-5xl text-white leading-[1.1] tracking-[-0.02em] mb-12">
+                  Tu hijo no necesita más contenido.<br />
+                  Necesita una forma de empezar a imaginar otra vez.
+                </h1>
+                
+                <Button className="w-96 h-16 bg-white text-black font-inter font-semibold text-xl rounded-xl transition-all duration-300 hover:scale-105 hover:shadow-2xl hover:shadow-white/20">
+                  Descubre Imagine Lab
+                </Button>
+              </div>
             </div>
 
             {/* Right content */}
