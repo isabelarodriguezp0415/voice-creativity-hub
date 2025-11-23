@@ -3,9 +3,9 @@ import { SplineScene } from "@/components/ui/spline";
 import { Spotlight } from "@/components/ui/spotlight";
 import { Button } from "@/components/ui/button";
 const Index = () => {
-  return <div className="min-h-screen bg-background flex items-center justify-center p-6">
-      <div className="w-full max-w-6xl">
-        <Card className="w-full h-[500px] bg-black/[0.96] relative overflow-hidden">
+  return <div className="min-h-screen bg-black flex items-center justify-center">
+      <div className="w-full h-full">
+        <Card className="w-full h-screen bg-black/[0.96] relative overflow-hidden rounded-none border-0">
           <Spotlight className="-top-40 left-0 md:left-60 md:-top-20" fill="white" />
           
           <div className="flex h-full">
